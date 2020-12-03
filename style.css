@@ -4,7 +4,7 @@
   margin-top: 48px;
 }
 body {
-    background-image: url(bg.png);
+    background: url(bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     
